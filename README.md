@@ -1,2 +1,2 @@
-# lab1
-lab1
+Name: Ivannikov Vadym
+Group: KM-41
